@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "shop": "Fresh Mart",
+    "name": "Organic Bananas",
+    "image": "bananas.png",
+    "rating": 4.5,
+    "reviewCount": 142,
+    "price": {
+      "current": 1.99,
+      "original": 2.49,
+      "discount": "20%"
+    },
+    "isFavorite": false,
+    "inStock": true
+  },
+  {
+    "id": 2,
+    "shop": "Fresh Mart",
+    "name": "Whole Milk - 1 Gallon",
+    "image": "milk.png",
+    "rating": 4.2,
+    "reviewCount": 89,
+    "price": {
+      "current": 3.49,
+      "original": 3.99,
+      "discount": "13%"
+    },
+    "isFavorite": true,
+    "inStock": true
+  },
+  {
+    "id": 3,
+    "shop": "Fresh Mart",
+    "name": "Free-Range Eggs (12 Pack)",
+    "image": "eggs.png",
+    "rating": 4.8,
+    "reviewCount": 120,
+    "price": {
+      "current": 4.79,
+      "original": 5.29,
+      "discount": "9%"
+    },
+    "isFavorite": false,
+    "inStock": false
+  },
+  {
+    "id": 4,
+    "shop": "Green Basket",
+    "name": "Red Apples (1kg)",
+    "image": "apples.png",
+    "rating": 4.6,
+    "reviewCount": 75,
+    "price": {
+      "current": 2.99,
+      "original": 3.49,
+      "discount": "14%"
+    },
+    "isFavorite": false,
+    "inStock": true
+  },
+  {
+    "id": 5,
+    "shop": "Green Basket",
+    "name": "Almond Butter",
+    "image": "almond-butter.png",
+    "rating": 4.9,
+    "reviewCount": 56,
+    "price": {
+      "current": 6.99,
+      "original": 8.49,
+      "discount": "18%"
+    },
+    "isFavorite": true,
+    "inStock": true
+  },
+  {
+    "id": 6,
+    "shop": "Green Basket",
+    "name": "Brown Bread (Whole Wheat)",
+    "image": "brown-bread.png",
+    "rating": 4.1,
+    "reviewCount": 41,
+    "price": {
+      "current": 2.49,
+      "original": 2.99,
+      "discount": "17%"
+    },
+    "isFavorite": false,
+    "inStock": true
+  },
+  {
+    "id": 7,
+    "shop": "Green Basket",
+    "name": "Greek Yogurt (500g)",
+    "image": "greek-yogurt.png",
+    "rating": 4.7,
+    "reviewCount": 67,
+    "price": {
+      "current": 3.99,
+      "original": 4.59,
+      "discount": "13%"
+    },
+    "isFavorite": true,
+    "inStock": false
+  },
+  {
+    "id": 8,
+    "shop": "Green Basket",
+    "name": "Orange Juice (1L)",
+    "image": "orange-juice.png",
+    "rating": 4.3,
+    "reviewCount": 90,
+    "price": {
+      "current": 2.79,
+      "original": 3.29,
+      "discount": "15%"
+    },
+    "isFavorite": false,
+    "inStock": true
+  },
+  {
+    "id": 9,
+    "shop": "Daily Essentials",
+    "name": "Basmati Rice (5kg)",
+    "image": "basmati-rice.png",
+    "rating": 4.6,
+    "reviewCount": 110,
+    "price": {
+      "current": 9.99,
+      "original": 12.49,
+      "discount": "20%"
+    },
+    "isFavorite": true,
+    "inStock": false
+  },
+  {
+    "id": 10,
+    "shop": "Daily Essentials",
+    "name": "Sunflower Oil (1L)",
+    "image": "sunflower-oil.png",
+    "rating": 4.4,
+    "reviewCount": 85,
+    "price": {
+      "current": 5.29,
+      "original": 6.49,
+      "discount": "18%"
+    },
+    "isFavorite": false,
+    "inStock": true
+  }
+]

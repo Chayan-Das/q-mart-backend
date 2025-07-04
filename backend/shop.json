@@ -1,0 +1,44 @@
+[
+  {
+    "shopId": 1,
+    "name": "Fresh Mart",
+    "address": "123 Green Street, Springfield",
+    "contact": "+1-555-1234",
+    "email": "contact@freshmart.com",
+    "openingHours": {
+      "monFri": "8:00 AM - 8:00 PM",
+      "satSun": "9:00 AM - 6:00 PM"
+    },
+    "rating": 4.5,
+    "reviewCount": 320,
+    "isOpen": true
+  },
+  {
+    "shopId": 2,
+    "name": "Green Basket",
+    "address": "456 Oak Avenue, Springfield",
+    "contact": "+1-555-5678",
+    "email": "info@greenbasket.com",
+    "openingHours": {
+      "monFri": "7:30 AM - 9:00 PM",
+      "satSun": "8:00 AM - 7:00 PM"
+    },
+    "rating": 4.7,
+    "reviewCount": 270,
+    "isOpen": true
+  },
+  {
+    "shopId": 3,
+    "name": "Daily Essentials",
+    "address": "789 Maple Road, Springfield",
+    "contact": "+1-555-9012",
+    "email": "support@dailyessentials.com",
+    "openingHours": {
+      "monFri": "9:00 AM - 7:00 PM",
+      "satSun": "10:00 AM - 5:00 PM"
+    },
+    "rating": 4.4,
+    "reviewCount": 180,
+    "isOpen": false
+  }
+]
