@@ -5,19 +5,5 @@
     "price": 3.49,
     "quantity": 2,
     "inStock": true
-  },
-  {
-    "productId": 5,
-    "name": "Almond Butter",
-    "price": 6.99,
-    "quantity": 1,
-    "inStock": true
-  },
-  {
-    "productId": 8,
-    "name": "Orange Juice (1L)",
-    "price": 2.79,
-    "quantity": 3,
-    "inStock": true
   }
 ]
